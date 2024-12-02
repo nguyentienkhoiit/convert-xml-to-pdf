@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <message>Hello, World! jqk</message>
+    <text>This word is in <style>italic</style> and others are <style>bold</style>.
+        You can also <style>underline</style> some text.</text>
+</root>
